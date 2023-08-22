@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parham</h1>
 <h3 align="center">I am a passionate front-end developer with a keen eye for design and a knack for creating seamless user experiences. With a strong foundation in HTML, CSS, and JavaScript, I bring creativity and functionality together to build visually appealing and user-friendly websites.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [HeyBoddy](https://heyboddy.ir/)
 
