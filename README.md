@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parham</h1>
 <h3 align="center">I am a passionate front-end developer with a keen eye for design and a knack for creating seamless user experiences. With a strong foundation in HTML, CSS, and JavaScript, I bring creativity and functionality together to build visually appealing and user-friendly websites.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1sHkVphym2gjWpzmlFyNSKIVjjuhexLRI/view?usp=sharing">
 
 - 🔭 I’m currently working on [HeyBoddy](https://heyboddy.ir/)
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **parhamsagharchi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/162cqqfN5enx1bqQUOeKiqD0ESi1Ix0zV/view?usp=sharing](https://drive.google.com/file/d/162cqqfN5enx1bqQUOeKiqD0ESi1Ix0zV/view?usp=sharing)
+- 📄 Know about my experience, Please scan this image
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
