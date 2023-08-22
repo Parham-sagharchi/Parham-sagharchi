@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parham</h1>
 <h3 align="center">I am a passionate front-end developer with a keen eye for design and a knack for creating seamless user experiences. With a strong foundation in HTML, CSS, and JavaScript, I bring creativity and functionality together to build visually appealing and user-friendly websites.</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1sHkVphym2gjWpzmlFyNSKIVjjuhexLRI/view?usp=sharing](https://github.com/Parham-sagharchi/Parham-sagharchi/blob/main/Parham-front-end-resume.png?raw=true">
+<img align="right" alt="Coding" width="400" src="https://github.com/Parham-sagharchi/Parham-sagharchi/blob/main/Parham-front-end-resume.png?raw=true">
 
 - 🔭 I’m currently working on [HeyBoddy](https://heyboddy.ir/)
 
